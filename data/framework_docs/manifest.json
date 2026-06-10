@@ -1,0 +1,810 @@
+[
+  {
+    "filename": "BE/java_springboot_api_pagination.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "API Pagination Standards \u2014 Spring Boot",
+    "phase": 1,
+    "lines": 1058
+  },
+  {
+    "filename": "BE/java_springboot_api_versioning.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "API Versioning and Deprecation \u2014 Spring Boot",
+    "phase": 2,
+    "lines": 1017
+  },
+  {
+    "filename": "BE/java_springboot_async_events.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "Async Processing and Domain Events \u2014 Spring Boot",
+    "phase": 1,
+    "lines": 1070
+  },
+  {
+    "filename": "BE/java_springboot_caching.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "Caching Standards \u2014 Spring Boot + Redis",
+    "phase": 1,
+    "lines": 1027
+  },
+  {
+    "filename": "BE/java_springboot_data_auditing.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "JPA Auditing and Change History \u2014 Spring Boot",
+    "phase": 2,
+    "lines": 1054
+  },
+  {
+    "filename": "BE/java_springboot_database_migrations.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "Database Migration Standards \u2014 Flyway + Spring Boot",
+    "phase": 1,
+    "lines": 864
+  },
+  {
+    "filename": "BE/java_springboot_email_notifications.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "Email and Notification Standards \u2014 Spring Boot",
+    "phase": 2,
+    "lines": 1026
+  },
+  {
+    "filename": "BE/java_springboot_exception_handling.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "Global Exception Handling \u2014 Spring Boot",
+    "phase": 1,
+    "lines": 967
+  },
+  {
+    "filename": "BE/java_springboot_feature_flags.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "Feature Flags \u2014 Spring Boot",
+    "phase": 2,
+    "lines": 1022
+  },
+  {
+    "filename": "BE/java_springboot_file_storage.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "File Storage Integration \u2014 Spring Boot",
+    "phase": 2,
+    "lines": 1044
+  },
+  {
+    "filename": "BE/java_springboot_multitenancy.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "Multi-Tenancy Framework \u2014 Spring Boot",
+    "phase": 1,
+    "lines": 1100
+  },
+  {
+    "filename": "BE/java_springboot_observability.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "Observability Standards \u2014 Spring Boot",
+    "phase": 1,
+    "lines": 1122
+  },
+  {
+    "filename": "BE/java_springboot_openapi_contracts.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "OpenAPI and API Contract Standards \u2014 Spring Boot",
+    "phase": 2,
+    "lines": 1086
+  },
+  {
+    "filename": "BE/java_springboot_project_structure.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "Standard Spring Boot Project Structure",
+    "phase": 1,
+    "lines": 1104
+  },
+  {
+    "filename": "BE/java_springboot_resilience4j.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "Resilience4j \u2014 Circuit Breakers and Retries",
+    "phase": 2,
+    "lines": 1033
+  },
+  {
+    "filename": "BE/java_springboot_rest_client.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "Outbound REST Clients \u2014 Spring Boot",
+    "phase": 2,
+    "lines": 1006
+  },
+  {
+    "filename": "BE/java_springboot_scheduled_jobs.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "Scheduled Jobs and Batch Processing \u2014 Spring Boot",
+    "phase": 2,
+    "lines": 1008
+  },
+  {
+    "filename": "BE/java_springboot_security_jwt.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "JWT Security Framework \u2014 Spring Boot",
+    "phase": 1,
+    "lines": 1042
+  },
+  {
+    "filename": "BE/java_springboot_testing_standards.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "Testing Standards \u2014 Spring Boot",
+    "phase": 1,
+    "lines": 1005
+  },
+  {
+    "filename": "BE/java_springboot_validation_bean.md",
+    "domain": "BE",
+    "stack": "Java+SpringBoot",
+    "title": "Bean Validation Standards \u2014 Spring Boot",
+    "phase": 2,
+    "lines": 1100
+  },
+  {
+    "filename": "BE/python_fastapi_async_db.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "Async Database Patterns \u2014 FastAPI + SQLAlchemy",
+    "phase": 1,
+    "lines": 936
+  },
+  {
+    "filename": "BE/python_fastapi_authentication.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "Authentication \u2014 FastAPI JWT",
+    "phase": 1,
+    "lines": 894
+  },
+  {
+    "filename": "BE/python_fastapi_background_tasks.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "Background Tasks \u2014 FastAPI + Celery",
+    "phase": 1,
+    "lines": 938
+  },
+  {
+    "filename": "BE/python_fastapi_caching_redis.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "Redis Caching \u2014 FastAPI",
+    "phase": 2,
+    "lines": 928
+  },
+  {
+    "filename": "BE/python_fastapi_celery_workers.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "Celery Workers and Task Queues \u2014 FastAPI",
+    "phase": 2,
+    "lines": 967
+  },
+  {
+    "filename": "BE/python_fastapi_dependency_injection.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "Dependency Injection Patterns \u2014 FastAPI",
+    "phase": 1,
+    "lines": 971
+  },
+  {
+    "filename": "BE/python_fastapi_error_handling.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "Error Handling Standards \u2014 FastAPI",
+    "phase": 1,
+    "lines": 915
+  },
+  {
+    "filename": "BE/python_fastapi_feature_flags.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "Feature Flags \u2014 FastAPI",
+    "phase": 2,
+    "lines": 948
+  },
+  {
+    "filename": "BE/python_fastapi_file_uploads.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "File Upload Standards \u2014 FastAPI",
+    "phase": 2,
+    "lines": 935
+  },
+  {
+    "filename": "BE/python_fastapi_health_checks.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "Health Checks and Readiness \u2014 FastAPI",
+    "phase": 2,
+    "lines": 1001
+  },
+  {
+    "filename": "BE/python_fastapi_middleware.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "Middleware Standards \u2014 FastAPI",
+    "phase": 1,
+    "lines": 912
+  },
+  {
+    "filename": "BE/python_fastapi_multitenancy.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "Multi-Tenancy \u2014 FastAPI",
+    "phase": 2,
+    "lines": 976
+  },
+  {
+    "filename": "BE/python_fastapi_openapi_contracts.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "OpenAPI and API Contract Standards \u2014 FastAPI",
+    "phase": 2,
+    "lines": 1027
+  },
+  {
+    "filename": "BE/python_fastapi_opentelemetry.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "OpenTelemetry Instrumentation \u2014 FastAPI",
+    "phase": 2,
+    "lines": 878
+  },
+  {
+    "filename": "BE/python_fastapi_project_structure.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "Standard FastAPI Project Structure",
+    "phase": 1,
+    "lines": 957
+  },
+  {
+    "filename": "BE/python_fastapi_rate_limiting.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "Rate Limiting \u2014 FastAPI + slowapi",
+    "phase": 1,
+    "lines": 855
+  },
+  {
+    "filename": "BE/python_fastapi_schema_validation.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "Schema Validation \u2014 FastAPI + Pydantic v2",
+    "phase": 1,
+    "lines": 949
+  },
+  {
+    "filename": "BE/python_fastapi_structured_logging.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "Structured Logging \u2014 FastAPI",
+    "phase": 2,
+    "lines": 897
+  },
+  {
+    "filename": "BE/python_fastapi_testing.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "Testing Standards \u2014 FastAPI",
+    "phase": 1,
+    "lines": 901
+  },
+  {
+    "filename": "BE/python_fastapi_websockets.md",
+    "domain": "BE",
+    "stack": "Python+FastAPI",
+    "title": "WebSocket Standards \u2014 FastAPI",
+    "phase": 2,
+    "lines": 915
+  },
+  {
+    "filename": "DB/mongodb_aggregation_patterns.md",
+    "domain": "DB",
+    "stack": "MongoDB",
+    "title": "MongoDB Aggregation Pipeline Patterns",
+    "phase": 1,
+    "lines": 1001
+  },
+  {
+    "filename": "DB/mongodb_backup_restore.md",
+    "domain": "DB",
+    "stack": "MongoDB",
+    "title": "Backup and Restore \u2014 MongoDB",
+    "phase": 2,
+    "lines": 884
+  },
+  {
+    "filename": "DB/mongodb_change_streams.md",
+    "domain": "DB",
+    "stack": "MongoDB",
+    "title": "Change Streams \u2014 MongoDB Real-Time Events",
+    "phase": 1,
+    "lines": 975
+  },
+  {
+    "filename": "DB/mongodb_compound_indexes.md",
+    "domain": "DB",
+    "stack": "MongoDB",
+    "title": "Compound Indexes \u2014 MongoDB",
+    "phase": 2,
+    "lines": 832
+  },
+  {
+    "filename": "DB/mongodb_indexing_strategy.md",
+    "domain": "DB",
+    "stack": "MongoDB",
+    "title": "MongoDB Indexing Strategy",
+    "phase": 1,
+    "lines": 939
+  },
+  {
+    "filename": "DB/mongodb_observability.md",
+    "domain": "DB",
+    "stack": "MongoDB",
+    "title": "Observability \u2014 MongoDB",
+    "phase": 2,
+    "lines": 979
+  },
+  {
+    "filename": "DB/mongodb_replica_set_operations.md",
+    "domain": "DB",
+    "stack": "MongoDB",
+    "title": "Replica Set Operations \u2014 MongoDB",
+    "phase": 2,
+    "lines": 985
+  },
+  {
+    "filename": "DB/mongodb_schema_design.md",
+    "domain": "DB",
+    "stack": "MongoDB",
+    "title": "MongoDB Schema Design Standards",
+    "phase": 1,
+    "lines": 1089
+  },
+  {
+    "filename": "DB/mongodb_soft_delete_patterns.md",
+    "domain": "DB",
+    "stack": "MongoDB",
+    "title": "Soft Delete Patterns \u2014 MongoDB",
+    "phase": 2,
+    "lines": 958
+  },
+  {
+    "filename": "DB/mongodb_transactions.md",
+    "domain": "DB",
+    "stack": "MongoDB",
+    "title": "Multi-Document Transactions \u2014 MongoDB",
+    "phase": 1,
+    "lines": 1067
+  },
+  {
+    "filename": "DB/postgresql_backup_recovery.md",
+    "domain": "DB",
+    "stack": "PostgreSQL",
+    "title": "Backup and Recovery \u2014 PostgreSQL on AWS RDS",
+    "phase": 1,
+    "lines": 915
+  },
+  {
+    "filename": "DB/postgresql_connection_pooling.md",
+    "domain": "DB",
+    "stack": "PostgreSQL",
+    "title": "Connection Pooling \u2014 PostgreSQL",
+    "phase": 2,
+    "lines": 912
+  },
+  {
+    "filename": "DB/postgresql_full_text_search.md",
+    "domain": "DB",
+    "stack": "PostgreSQL",
+    "title": "Full-Text Search \u2014 PostgreSQL",
+    "phase": 2,
+    "lines": 1034
+  },
+  {
+    "filename": "DB/postgresql_indexing_strategy.md",
+    "domain": "DB",
+    "stack": "PostgreSQL",
+    "title": "PostgreSQL Indexing Strategy",
+    "phase": 1,
+    "lines": 875
+  },
+  {
+    "filename": "DB/postgresql_jsonb_patterns.md",
+    "domain": "DB",
+    "stack": "PostgreSQL",
+    "title": "JSONB Patterns \u2014 PostgreSQL",
+    "phase": 2,
+    "lines": 973
+  },
+  {
+    "filename": "DB/postgresql_logical_replication.md",
+    "domain": "DB",
+    "stack": "PostgreSQL",
+    "title": "Logical Replication \u2014 PostgreSQL",
+    "phase": 2,
+    "lines": 963
+  },
+  {
+    "filename": "DB/postgresql_migration_zero_downtime.md",
+    "domain": "DB",
+    "stack": "PostgreSQL",
+    "title": "Zero-Downtime Migrations \u2014 PostgreSQL",
+    "phase": 2,
+    "lines": 901
+  },
+  {
+    "filename": "DB/postgresql_monitoring_metrics.md",
+    "domain": "DB",
+    "stack": "PostgreSQL",
+    "title": "Monitoring and Metrics \u2014 PostgreSQL",
+    "phase": 2,
+    "lines": 934
+  },
+  {
+    "filename": "DB/postgresql_partitioning.md",
+    "domain": "DB",
+    "stack": "PostgreSQL",
+    "title": "Table Partitioning \u2014 PostgreSQL",
+    "phase": 1,
+    "lines": 936
+  },
+  {
+    "filename": "DB/postgresql_query_optimization.md",
+    "domain": "DB",
+    "stack": "PostgreSQL",
+    "title": "Query Optimisation \u2014 PostgreSQL",
+    "phase": 1,
+    "lines": 961
+  },
+  {
+    "filename": "DB/postgresql_row_level_security.md",
+    "domain": "DB",
+    "stack": "PostgreSQL",
+    "title": "Row-Level Security (RLS) \u2014 PostgreSQL Multi-Tenant",
+    "phase": 1,
+    "lines": 903
+  },
+  {
+    "filename": "DB/postgresql_schema_design_standards.md",
+    "domain": "DB",
+    "stack": "PostgreSQL",
+    "title": "PostgreSQL Schema Design Standards",
+    "phase": 1,
+    "lines": 907
+  },
+  {
+    "filename": "FE/react_accessibility_wcag.md",
+    "domain": "FE",
+    "stack": "React",
+    "title": "Accessibility (WCAG 2.1) \u2014 React",
+    "phase": 2,
+    "lines": 912
+  },
+  {
+    "filename": "FE/react_api_layer.md",
+    "domain": "FE",
+    "stack": "React",
+    "title": "API Layer Standards \u2014 React + Axios",
+    "phase": 1,
+    "lines": 1004
+  },
+  {
+    "filename": "FE/react_authentication_flow.md",
+    "domain": "FE",
+    "stack": "React",
+    "title": "Authentication Flows \u2014 React",
+    "phase": 2,
+    "lines": 950
+  },
+  {
+    "filename": "FE/react_component_standards.md",
+    "domain": "FE",
+    "stack": "React",
+    "title": "Component Standards \u2014 React",
+    "phase": 1,
+    "lines": 1052
+  },
+  {
+    "filename": "FE/react_design_tokens.md",
+    "domain": "FE",
+    "stack": "React",
+    "title": "Design Tokens and Theming \u2014 React",
+    "phase": 2,
+    "lines": 965
+  },
+  {
+    "filename": "FE/react_error_boundaries.md",
+    "domain": "FE",
+    "stack": "React",
+    "title": "Error Boundaries and Failure UX \u2014 React",
+    "phase": 2,
+    "lines": 1022
+  },
+  {
+    "filename": "FE/react_forms_standard.md",
+    "domain": "FE",
+    "stack": "React",
+    "title": "Form Standards \u2014 React Hook Form + Zod",
+    "phase": 1,
+    "lines": 950
+  },
+  {
+    "filename": "FE/react_internationalization.md",
+    "domain": "FE",
+    "stack": "React",
+    "title": "Internationalization (i18n) \u2014 React",
+    "phase": 2,
+    "lines": 1010
+  },
+  {
+    "filename": "FE/react_performance_standards.md",
+    "domain": "FE",
+    "stack": "React",
+    "title": "Performance Standards \u2014 React",
+    "phase": 1,
+    "lines": 1034
+  },
+  {
+    "filename": "FE/react_project_structure.md",
+    "domain": "FE",
+    "stack": "React",
+    "title": "Standard React Project Structure",
+    "phase": 1,
+    "lines": 1018
+  },
+  {
+    "filename": "FE/react_routing_standards.md",
+    "domain": "FE",
+    "stack": "React",
+    "title": "Routing Standards \u2014 React Router v6",
+    "phase": 1,
+    "lines": 967
+  },
+  {
+    "filename": "FE/react_state_management.md",
+    "domain": "FE",
+    "stack": "React",
+    "title": "State Management \u2014 React + Zustand + React Query",
+    "phase": 1,
+    "lines": 984
+  },
+  {
+    "filename": "FE/react_storybook_standards.md",
+    "domain": "FE",
+    "stack": "React",
+    "title": "Storybook Component Documentation \u2014 React",
+    "phase": 2,
+    "lines": 918
+  },
+  {
+    "filename": "FE/react_testing_library.md",
+    "domain": "FE",
+    "stack": "React",
+    "title": "Testing with React Testing Library",
+    "phase": 2,
+    "lines": 988
+  },
+  {
+    "filename": "Infra/aws_alb_load_balancing.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "Application Load Balancer \u2014 AWS",
+    "phase": 2,
+    "lines": 1032
+  },
+  {
+    "filename": "Infra/aws_api_gateway_standards.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "API Gateway Standards \u2014 AWS",
+    "phase": 2,
+    "lines": 987
+  },
+  {
+    "filename": "Infra/aws_cicd_pipeline.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "CI/CD Pipeline Standards \u2014 GitHub Actions + AWS",
+    "phase": 1,
+    "lines": 1020
+  },
+  {
+    "filename": "Infra/aws_cloudwatch_monitoring.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "CloudWatch Monitoring Standards",
+    "phase": 1,
+    "lines": 918
+  },
+  {
+    "filename": "Infra/aws_cost_optimisation.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "AWS Cost Optimisation Standards",
+    "phase": 1,
+    "lines": 1060
+  },
+  {
+    "filename": "Infra/aws_disaster_recovery.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "Disaster Recovery Standards \u2014 AWS Multi-Region",
+    "phase": 1,
+    "lines": 1055
+  },
+  {
+    "filename": "Infra/aws_ecr_image_standards.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "ECR Container Image Standards \u2014 AWS",
+    "phase": 2,
+    "lines": 1049
+  },
+  {
+    "filename": "Infra/aws_ecs_fargate_deployment.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "ECS Fargate Deployment Standards",
+    "phase": 1,
+    "lines": 1020
+  },
+  {
+    "filename": "Infra/aws_elasticache_redis.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "ElastiCache Redis \u2014 AWS",
+    "phase": 2,
+    "lines": 990
+  },
+  {
+    "filename": "Infra/aws_eventbridge.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "EventBridge Event Standards \u2014 AWS",
+    "phase": 2,
+    "lines": 1060
+  },
+  {
+    "filename": "Infra/aws_iam_least_privilege.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "IAM Least-Privilege Standards",
+    "phase": 1,
+    "lines": 926
+  },
+  {
+    "filename": "Infra/aws_kms_encryption.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "KMS Encryption Standards \u2014 AWS",
+    "phase": 2,
+    "lines": 1033
+  },
+  {
+    "filename": "Infra/aws_lambda_standards.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "AWS Lambda Standards",
+    "phase": 2,
+    "lines": 1068
+  },
+  {
+    "filename": "Infra/aws_network_firewall.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "Network Firewall \u2014 AWS",
+    "phase": 2,
+    "lines": 905
+  },
+  {
+    "filename": "Infra/aws_parameter_store.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "Systems Manager Parameter Store \u2014 AWS",
+    "phase": 2,
+    "lines": 912
+  },
+  {
+    "filename": "Infra/aws_rds_postgresql_setup.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "AWS RDS PostgreSQL Setup Standards",
+    "phase": 1,
+    "lines": 975
+  },
+  {
+    "filename": "Infra/aws_route53_dns.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "Route 53 DNS Standards \u2014 AWS",
+    "phase": 2,
+    "lines": 1063
+  },
+  {
+    "filename": "Infra/aws_s3_standards.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "S3 Standards",
+    "phase": 1,
+    "lines": 971
+  },
+  {
+    "filename": "Infra/aws_secrets_management.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "Secrets Management \u2014 AWS Secrets Manager + SSM",
+    "phase": 1,
+    "lines": 904
+  },
+  {
+    "filename": "Infra/aws_sqs_sns_messaging.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "SQS and SNS Messaging \u2014 AWS",
+    "phase": 2,
+    "lines": 1004
+  },
+  {
+    "filename": "Infra/aws_sts_assume_role.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "STS Assume Role Patterns \u2014 AWS",
+    "phase": 2,
+    "lines": 969
+  },
+  {
+    "filename": "Infra/aws_tagging_standards.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "Resource Tagging Standards \u2014 AWS",
+    "phase": 2,
+    "lines": 917
+  },
+  {
+    "filename": "Infra/aws_terraform_module_standards.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "Terraform Module Standards \u2014 AWS",
+    "phase": 2,
+    "lines": 988
+  },
+  {
+    "filename": "Infra/aws_vpc_network_architecture.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "VPC and Network Architecture Standard",
+    "phase": 1,
+    "lines": 1099
+  },
+  {
+    "filename": "Infra/aws_waf_security.md",
+    "domain": "Infra",
+    "stack": "AWS",
+    "title": "AWS WAF Security Standards",
+    "phase": 2,
+    "lines": 896
+  }
+]

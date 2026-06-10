@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets and local env
+.env
+frontend/.env.local
+
+# Log files
+logs/
+
+archive/
+docs/
+implementation/
+notebooks/
+evaluation/
+data/database/vector_db/
+data/database/audit_db/
